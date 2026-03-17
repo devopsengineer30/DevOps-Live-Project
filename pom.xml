@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.shoppingsite</groupId>
-  <artifactId>shopping-site-web-app</artifactId>
+  <artifactId>devsecops</artifactId>
   <packaging>war</packaging>
   <version>3.0-RELEASE</version>
-  <name>shopping-site-web-app</name>
+  <name>devsecops</name>
   <url>http://maven.apache.org</url>
  
   <dependencies>
@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>shopping-site-web-app</finalName>
+    <finalName>devsecops</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>

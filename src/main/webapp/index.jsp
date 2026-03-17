@@ -14,7 +14,7 @@
 
 <body>
 <div>
-	<img src="naresh-it.jpeg" alt="naresh-it" style="width:auto;" class="center">
+	<img src="DevSecOps-Course-Completion.jpeg" alt="DevSecOps-Course-Completion" style="width:auto;" class="center">
 	</div>
 </body>
 </html>

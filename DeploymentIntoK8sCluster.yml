@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: shopping-app-container
-          image: ramarao388/naresh-it
+          image: ramarao388/devsecops:1.0
           imagePullPolicy: Always
           ports:
             - containerPort: 8080

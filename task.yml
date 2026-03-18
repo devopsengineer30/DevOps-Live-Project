@@ -11,9 +11,9 @@
        src: target
        dest: /home/admin-user
     - name : Build image
-      command: docker build -t ramarao388/naresh-it .
+      command: docker build -t ramarao388/devsecops-project .
     - name : Push Docker Image
-      command: docker push ramarao388/naresh-it
+      command: docker push ramarao388/devsecops-project
 - name: Deployment into Kubernetes Cluster
   hosts: eks
   tasks:
